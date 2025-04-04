@@ -4,7 +4,7 @@ I am a passionate learner with interest in frontend and web development. Current
 - 🌱 I’m currently learning Javascript, Advanced HTML and CSS
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like drawing, check my youtube channel 
+- ⚡ Fun fact: I like drawing, check my youtube channel (https://www.youtube.com/@Mina_art_studio)
 
 # Technologies & Tools :
 
@@ -12,7 +12,7 @@ HTML | CSS | Javascript | VScode | Git | Functional testing | SQL
 
 # 📫 How to reach me:
 
-Email -  meena290470@gmail.com | LinkedIn - meena-s03
+Email -  meena290470@gmail.com | LinkedIn - [meena-s03](https://www.linkedin.com/in/meena-s-03)
 
 
 
