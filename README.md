@@ -8,18 +8,11 @@ I am a passionate learner with interest in frontend and web development. Current
 
 # Technologies & Tools :
 
-HTML
-CSS
-Javascript
-VScode
-Git
-Functional testing
-SQL
+HTML | CSS | Javascript | VScode | Git | Functional testing | SQL
 
 # 📫 How to reach me:
 
-Email -  meena290470@gmail.com
-LinkedIn - meena-s03
+Email -  meena290470@gmail.com | LinkedIn - meena-s03
 
 
 
