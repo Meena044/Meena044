@@ -12,7 +12,7 @@ HTML | CSS | Javascript | VScode | Git | Functional testing | SQL
 
 # Let's connect:
 
-Email -  meena290470@gmail.com | LinkedIn - [meena-s03](https://www.linkedin.com/in/meena-s-03)
+LinkedIn - [meena-s03](https://www.linkedin.com/in/meena-s-03)
 
 
 
